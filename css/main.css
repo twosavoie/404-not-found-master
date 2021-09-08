@@ -163,6 +163,14 @@ section p {
     letter-spacing: -0.035em;
 }
 
+footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .875rem;
+    color: #BDBDBD;
+    line-height: 1.2142;
+    text-align: center;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
