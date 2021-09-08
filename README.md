@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://lscodes.com)
-- GitHub [@your-username](https://github.com/twosavoie)
-- Twitter [@your-twitter](https://twitter.com/twosavoie)
+- Website [lscodes.com](https://lscodes.com)
+- GitHub [@twosavoie](https://github.com/twosavoie)
+- Twitter [@twosavoie](https://twitter.com/twosavoie)
